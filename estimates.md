@@ -10,14 +10,14 @@
 
 |Time|Description|
 |---|---|
-|00:01|Problem occurred (First minute)|
-|00:06|Time take to raise alerts (5 mins)|
-|00:07|Alert triggers on-all staff (1 mins)|
-|00:17|On-call staff may need to get out of bed, get to a computer, log in, log onto VPN (10 mins)|
-|00:27|On-call Root cause Analysis starts (10 mins)|
-|00:37|Root cause Analysis done (10 mins)|
-|00:47|Remediation started (10 mins)|
-|00:52|Issue fixed (5 mins)|
+|00:00|Problem occurred (First minute)|
+|00:05|Time take to raise alerts (5 mins)|
+|00:06|Alert triggers on-all staff (1 mins)|
+|00:16|On-call staff may need to get out of bed, get to a computer, log in, log onto VPN (10 mins)|
+|00:26|On-call Root cause Analysis starts (10 mins)|
+|00:36|Root cause Analysis done (10 mins)|
+|00:46|Remediation started (10 mins)|
+|00:51|Issue fixed (5 mins)|
 
 ## Minimum RPO for a single AZ outage
 
